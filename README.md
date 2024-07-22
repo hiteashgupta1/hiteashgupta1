@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hiteash Mahajan
+## Hi there 👋 
 - 🔭 I’m currently pursuing BTech in Computer Science Engineering from University Of Jammu
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on projects related to Web Development
