@@ -2,11 +2,10 @@
 - 🔭 I’m currently pursuing BTech in Computer Science Engineering from University Of Jammu
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on projects related to Web Development
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan) <a href="mailto:ramakrushnabunty@gmail.com">Gmail</a>
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan)  <a href="mailto:hiteashgupta1@gmail.com">Email</a>
 
 
               
-
 
 
 
