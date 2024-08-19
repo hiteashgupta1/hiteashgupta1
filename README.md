@@ -1,8 +1,8 @@
 <div align="center">
    <h1>Hi there 👋, I'm Hiteash </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan)  
-[![Twitter](https://img.shields.io/badge/Twitter-000.svg?logo=x&logoColor=white)]([https://x.com/HiteashMahajan/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan) [![Twitter](https://img.shields.io/badge/Twitter-000.svg?logo=x&logoColor=white)](https://x.com/HiteashMahajan/)
+
 </div>
 
 <hr>
