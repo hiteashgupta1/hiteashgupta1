@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hi there 👋, I'm Hiteash
+   <h1>Hi there 👋, I'm Hiteash </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan)  
 [![Twitter](https://img.shields.io/badge/Twitter-000.svg?logo=x&logoColor=white)]([https://x.com/HiteashMahajan/])
@@ -17,7 +17,7 @@
 
 
               
-
+<br>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -34,7 +34,7 @@
 
 
 
-
+<br>
 
 ## Github Stats 📊
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiteashgupta1&theme=nord&border_radius=5.1)](https://git.io/streak-stats)
