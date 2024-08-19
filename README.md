@@ -40,8 +40,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiteashgupta1&theme=nord&border_radius=5.1)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteashgupta1&layout=compact&theme=nord)
 
-
-
+<br>
 
 
 ![](https://komarev.com/ghpvc/?username=hiteashgupta1&color=green)
