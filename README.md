@@ -2,9 +2,9 @@
 - 🔭 I’m currently pursuing BTech in Computer Science Engineering from University Of Jammu
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on projects related to Web Development
-- 📫 How to reach me: https://www.linkedin.com/in/hiteash-mahajan/
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="hiteash-mahajan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hiteash-mahajan?trk=profile-badge">Hiteash Mahajan</a></div>
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan) <a href="mailto:ramakrushnabunty@gmail.com">Gmail</a>
+
+
               
 
 
