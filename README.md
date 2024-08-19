@@ -1,12 +1,22 @@
-## Hi there 👋 
+<div align="center">
+  ## Hi there 👋, I'm Hiteash
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan)  
+[![Twitter](https://img.shields.io/badge/Twitter-000.svg?logo=x&logoColor=white)]([https://x.com/HiteashMahajan/])
+</div>
+
+<hr>
+
+👨🏻‍💻 **About Me** <img src="https://www.codedex.io/api/petStatus?user=ram79" min-width="300px" max-width="300px" width="250px" align="right">
+                <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" min-width="300px" max-width="300px" width="250px" align="right">
+<br>
 - 🔭 I’m currently pursuing BTech in Computer Science Engineering from University Of Jammu
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on projects related to Web Development
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiteash-mahajan)  <a href="mailto:hiteashgupta1@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto:hiteashgupta1@gmail.com">Email</a>
 
 
               
-
 
 
 ## GSSOC(24) Badges 🪶
@@ -34,7 +44,7 @@
 
 
 
-
+![](https://komarev.com/ghpvc/?username=hiteashgupta1&color=green)
 
 <!--
 **hiteashgupta1/hiteashgupta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
