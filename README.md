@@ -49,10 +49,12 @@
 <br>
 
 ## Github Stats 📊
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiteashgupta1&theme=nord&border_radius=5.1)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteashgupta1&layout=compact&theme=nord)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiteashgupta1&show_icons=true&locale=en&layout=compact" alt="hiteashgupta1" /></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hiteashgupta1&count_private=true&show_icons=true&title_color=333&icon_color=333)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteashgupta1&show_icons=true&locale=en" alt="hiteashgupta1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteashgupta1&" alt="hiteashgupta1" /></p>
+
 <br>
 
 
