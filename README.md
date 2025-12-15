@@ -10,14 +10,15 @@
 <img src="https://github-profile-trophy.vercel.app/?username=hiteashgupta1&theme=radical">
 
 <br>
-👨🏻‍💻 **About Me**
+
+ 👨🏻‍💻 **About Me**
 <br>
 
 - 🔭 I’m currently pursuing BTech in Computer Science Engineering from University Of Jammu
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on projects related to Web Development
 - 📫 How to reach me: <a href="mailto:hiteashgupta1@gmail.com">Email</a>
- # 👨‍💻 Personal Portfolio <a href = "https://hiteashgupta1.github.io/My-Portfolio/">Link</a>
+👨‍💻 Personal Portfolio <a href = "https://hiteashgupta1.github.io/My-Portfolio/">Link</a>
  This project showcases my journey as a Computer Science Engineering student specializing in Data Analytics and Software Engineering. The site serves as a central hub for my projects, certifications, and professional experience.
 <br>
 It is built as a fully responsive, single-page application using vanilla web technologies, featuring interactive elements like dark mode, project filtering, and auto-scrolling components.
